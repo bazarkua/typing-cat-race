@@ -4,4 +4,4 @@
 <li>Switch light/dark theme
 <li>Change font style!
 <li><strike>Create separate branches
-
+</ul>
